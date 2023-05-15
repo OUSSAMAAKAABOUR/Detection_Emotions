@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32932277074",
+    "project_id": "emotions-detection-9eeae",
+    "storage_bucket": "emotions-detection-9eeae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32932277074:android:1dd850d9be6141d61de88b",
+        "android_client_info": {
+          "package_name": "com.example.emotionsdetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32932277074-68222gqha8vmsf7u35rh7cm91cfodrmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAiC2CJre5NCSGK7jB0c0jC4oLxHNIWDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32932277074-68222gqha8vmsf7u35rh7cm91cfodrmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
